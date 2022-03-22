@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------
 
-# Welcome!
+# Hello World!!<img alt="alt_text" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
 
  
 
