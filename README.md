@@ -8,13 +8,13 @@
 
  
 
-:computer: I'm a telecommunications engineering student and an AI enthusiast!
+:computer: I'm a telecommunications engineering and an AI enthusiast!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: create a new project and find a new job.
 
  
 
