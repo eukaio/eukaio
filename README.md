@@ -8,7 +8,7 @@
 
  
 
-:computer: I'm a telecommunications engineering and an AI enthusiast!
+:computer: I'm a telecommunications engineer, an AI enthusiast and a web developer in training!
 
 :house_with_garden: I’m from Brazil.
 
